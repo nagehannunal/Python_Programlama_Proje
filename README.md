@@ -1,1 +1,2 @@
-# Python_Programlama_Proje
+# Python_Programlama_Projesi - Görüntü İşleme Tabanlı Otopark Doluluk Oranı ve Takip Sistemi
+Bu projede, bir otoparktaki park yerlerinin durumunu bilgisayarlı görü ve görüntü işleme yöntemleriyle anlık olarak tespit eden bir sistem geliştirilecektir. Sistem, kamera veya video görüntülerini analiz ederek boş park yerlerini yeşil renkli görselleştirmelerle gösterecek, anlık doluluk oranını hesaplayacak ve çalışma seansı sonunda gün içindeki en yoğun saatleri raporlayacaktır. Böylece sürücülerin boş yerleri kolayca bulmasını ve otopark kapasitesinin verimli takip edilmesini sağlayan pratik bir otomasyon çözümü sunulması amaçlanmaktadır.
